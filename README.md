@@ -1,65 +1,24 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" alt="Narendra Naik Banner" width="100%">
-</div>
+# 💫 About Me:
+👋 Hi, I'm Narendra Naik<br>Full Stack Web Developer | AI & ML Enthusiast | MERN Stack
 
-<!-- Introduction -->
-<div align="center">
-  <h1>👋 Hi, I'm Narendra Naik</h1>
-  <h3>Full Stack Web Developer | AI & ML Enthusiast | MERN Stack</h3>
 
-  [![Email](https://img.shields.io/badge/Email-naikn2789%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:naikn2789@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-ComingSoon-blue?style=flat-square&logo=vercel)](#)
-  [![Profile Views](https://komarev.com/ghpvc/?username=narendra-naik2789&style=flat-square&color=0e75b6)](#)
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naikn_27891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naiknarendra789) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naiknarendra8988) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikn899@gmail.com) 
 
-<!-- Tech Stack -->
-<div align="center">
-  <h2>🧰 Tech Stack</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=narendra-naik2789&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ### 🖥️ Programming Languages
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" height="50"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=narendra-naik2789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=light" height="50"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-  ### ⚙️ Backend
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light" height="50"/>
+---
+[![](https://visitcount.itsvg.in/api?id=narendra-naik2789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ### 🛢️ Databases
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="50"/>
-
-  ### 🤖 AI / ML
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn&theme=light" height="50"/>
-
-  ### 🎨 Design & Tools
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=light" height="50"/>
-</div>
-
-<!-- Social & Contact -->
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-
-  <p>
-    <a href="#" target="_blank" title="Portfolio">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="35" style="margin:5px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/narendra-naik2789/" target="_blank" title="LinkedIn">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" style="margin:5px"/>
-    </a>
-    <a href="https://x.com/narendra_naik2789" target="_blank" title="X / Twitter">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="35" style="margin:5px"/>
-    </a>
-    <a href="https://instagram.com/naik23" target="_blank" title="Instagram">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35" style="margin:5px"/>
-    </a>
-    <a href="mailto:naikn2789@gmail.com" target="_blank" title="Email">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" style="margin:5px"/>
-    </a>
-  </p>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <p>🤝 Open to Collaborations & Opportunities</p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
