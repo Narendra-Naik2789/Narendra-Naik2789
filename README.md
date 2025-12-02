@@ -1,105 +1,65 @@
-<img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" width="100%" />
-
-<br>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Narendra+Naik;Full-Stack+Developer+%7C+AIML+Practitioner;Building+Smart+and+Scalable+Systems" alt="Typing Animation" />
-</h1>
-
-<br>
-
+<!-- Header -->
 <div align="center">
-
-<!-- Neon Buttons -->
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
-</a>
-
-<a href="https://www.linkedin.com/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/your-handle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
+  <img src="https://github.com/sibylassana95/sibylassana95/blob/main/bannierres.gif" alt="Narendra Naik Banner" width="100%">
 </div>
 
-<br>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" />
-</p>
-
-## 🚀 About Me  
-
-I work across the full stack — UI, backend, databases, DevOps — and strengthen products with applied AI/ML where it genuinely adds leverage.  
-My focus: clean architecture, performance, reliability, and systems that scale without drama.
-
----
-
-## 🧠 Tech Stack
-
-### **Frontend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma" />
-</div>
-
-### **Backend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</div>
-
-### **Databases**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</div>
-
-### **AI / Machine Learning**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Pandas_logo.svg">
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg">
-</div>
-
-### **DevOps / Tools**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws" />
-</div>
-
-### **Other Skills**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,ps,ai,blender" />
-</div>
-
----
-
-<!-- Glass-effect Contact Section -->
+<!-- Introduction -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="55%" />
-  
-  <h2>📫 Connect With Me</h2>
+  <h1>👋 Hi, I'm Narendra Naik</h1>
+  <h3>Full Stack Web Developer | AI & ML Enthusiast | MERN Stack</h3>
 
-  <p>Available for collaboration, full-stack roles, and AI/ML-driven systems.</p>
-
-  <br>
-
-  <a href="mailto:naikn2789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/narendra-naik2789" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/narendra-naik2789" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-121212?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  </a>
-
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="50%" />
-
+  [![Email](https://img.shields.io/badge/Email-naikn2789%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:naikn2789@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-ComingSoon-blue?style=flat-square&logo=vercel)](#)
+  [![Profile Views](https://komarev.com/ghpvc/?username=narendra-naik2789&style=flat-square&color=0e75b6)](#)
 </div>
 
+<!-- Tech Stack -->
+<div align="center">
+  <h2>🧰 Tech Stack</h2>
+
+  ### 🖥️ Programming Languages
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=light" height="50"/>
+
+  ### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=light" height="50"/>
+
+  ### ⚙️ Backend
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=light" height="50"/>
+
+  ### 🛢️ Databases
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="50"/>
+
+  ### 🤖 AI / ML
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn&theme=light" height="50"/>
+
+  ### 🎨 Design & Tools
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=light" height="50"/>
+</div>
+
+<!-- Social & Contact -->
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+
+  <p>
+    <a href="#" target="_blank" title="Portfolio">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="35" style="margin:5px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/narendra-naik2789/" target="_blank" title="LinkedIn">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35" style="margin:5px"/>
+    </a>
+    <a href="https://x.com/narendra_naik2789" target="_blank" title="X / Twitter">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="35" style="margin:5px"/>
+    </a>
+    <a href="https://instagram.com/naik23" target="_blank" title="Instagram">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35" style="margin:5px"/>
+    </a>
+    <a href="mailto:naikn2789@gmail.com" target="_blank" title="Email">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" style="margin:5px"/>
+    </a>
+  </p>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <p>🤝 Open to Collaborations & Opportunities</p>
+</div>
