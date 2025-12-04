@@ -18,7 +18,7 @@ My goal is to build reliable systems that scale without unnecessary complexity.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naikn_27891)  &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naiknarendra789)  &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naiknarendra8988)  &nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikn899@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naikn_27891)  &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NaikNarendra32)  &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NaikNarendra32)  &nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikn2789@gmail.com) 
 
 ## 💻 Tech Stack
 
