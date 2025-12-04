@@ -1,14 +1,13 @@
+
 <div align="center">
-
-### 👋 Hi, I'm <strong>Narendra Naik</strong>
-
-<span style="font-size: 14.5px; font-weight: 500;">
-  Full-Stack Web Developer &nbsp;||&nbsp; AI/ML Enthusiast &nbsp;||&nbsp; MERN Stack
-</span>
-
+  <h1><strong>👋 Hi, I'm Narendra Naik</strong></h1>
+  <h2>Full-Stack Web Developer &nbsp;||&nbsp; AI/ML Enthusiast &nbsp;||&nbsp; MERN Stack</h2>
 </div>
 
-<br/>
+
+
+<div align="center">
+
 
 ### 🧠 About My Work & Mindset  
 
@@ -21,6 +20,7 @@ My goal is to build reliable systems that scale without unnecessary complexity.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naikn_27891)  &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naiknarendra789)  &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naiknarendra8988)  &nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikn899@gmail.com) 
+
 ## 💻 Tech Stack
 
 ### 🚀 Languages  
@@ -91,8 +91,11 @@ My goal is to build reliable systems that scale without unnecessary complexity.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </p>
- # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=narendra-naik2789&theme=gruvbox&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=narendra-naik2789&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) --- [![](https://visitcount.itsvg.in/api?id=narendra-naik2789&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=narendra-naik2789&theme=gruvbox&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
