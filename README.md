@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Assets/back-pick.png" alt="Banner" width="100%" />
+</p>
+
 
 <div align="center">
   <h1><strong>👋 Hi, I'm Narendra Naik</strong></h1>
