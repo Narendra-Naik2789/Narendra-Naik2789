@@ -94,8 +94,44 @@ My goal is to build reliable systems that scale without unnecessary complexity.
 
 <div align="center">
 
+## 🧮 LeetCode Progress
+
+<img src="https://leetcard.jacoblin.cool/narendra-naik2789?theme=dark&ext=heatmap&border=2&radius=10" />
+
+</div>
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=narendra-naik2789&theme=gruvbox&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-naik2789&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+
+<div style="
+  border-radius: 12px;
+  padding: 18px 20px;
+  background: #1f1f1f;
+  border-left: 6px solid #f39c12;
+  color: #e6e6e6;
+  margin: 25px 0;
+">
+
+  <strong style="font-size: 18px;">💡 Dev Quote</strong>
+  <p style="margin-top: 10px; font-size: 15.5px; line-height: 1.6;">
+    <em>“Most bugs aren’t mistakes. They’re consequences of code written without thinking far enough ahead.”</em>
+  </p>
+
+  <div style="
+    text-align: right;
+    font-size: 13px;
+    margin-top: 10px;
+    opacity: 0.8;
+  ">
+    — Narendra Naik
+  </div>
+
+</div>
+
+
