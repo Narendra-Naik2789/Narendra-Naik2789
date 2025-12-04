@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./Assets/back-pic.png" alt="Banner" width="100%" height="auto" />
-</p>
-
-
 <div align="center">
   <h1><strong>👋 Hi, I'm Narendra Naik</strong></h1>
   <h2>Full-Stack Web Developer &nbsp;||&nbsp; AI/ML Enthusiast &nbsp;||&nbsp; MERN Stack</h2>
